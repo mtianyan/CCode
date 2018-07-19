@@ -1,0 +1,2 @@
+input the int value i:
+input the int value j:
