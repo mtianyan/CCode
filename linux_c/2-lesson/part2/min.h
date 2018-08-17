@@ -1,1 +1,1 @@
-int minNum(int a ,int b);
+int minNum(int a, int b);
